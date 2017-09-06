@@ -1,0 +1,11 @@
+{
+  "name": "select-typeracer",
+  "version": "1.0.0",
+  "description": "Simple analog with the same functionality that have 'http://play.typeracer.com' using Vanila.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M.Hubal",
+  "license": "ISC"
+}
